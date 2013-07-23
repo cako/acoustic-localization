@@ -1,3 +1,8 @@
+# Madagascar
+*.rsf
+*.vpl
+
+# Python
 *.py[cod]
 
 # C extensions
