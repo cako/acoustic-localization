@@ -1,8 +1,7 @@
 from rsf.proj import *
 import rsf.recipes.fdmod as fdmod
 
-# Thanks to Ning Tu
-par = par = {
+par = {
     'nx':401,  'ox':2, 'dx':5,     'lx':'x', 'ux':'m',
     'nz':401,  'oz':2, 'dz':5,     'lz':'z', 'uz':'m',
     'nt':1000,  'ot':0, 'dt':0.0005, 'lt':'t', 'ut':'s',
